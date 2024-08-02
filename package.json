@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon Aula.js"
+    "start": "nodemon aula.js"
   },
   "type": "module",
   "keywords": [],
